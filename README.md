@@ -1,4 +1,9 @@
-## Next.js App Router Course - Starter
+## Next.js App Router Course - Acme Dashboard
+
+Sample login credentials:
+
+- Email: user@nextmail.com
+- Password: 123456
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
